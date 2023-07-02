@@ -1,0 +1,115 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style-type: none;
+} */
+
+.backnav{
+    background-color: #1e202b;
+}
+
+.wLogo{
+    width: 10%;
+}
+.bhomeP{
+    border-style: solid !important;
+    border-color: green !important;
+}
+
+p.BH {
+    border-style: solid;
+    
+    border-color: #009ad8;
+    color: #009ad8;
+  }
+
+.HBh:hover{
+
+    border-style: solid;
+    border-color: #009ad8;
+    color: #009ad8;
+
+}
+
+.backcontent{
+    background-color: #1e202b;
+    height: 100vh;
+
+}
+.backimg{
+    background-image: url(../img/banner.png);
+    background-size: 100% 100%;
+    overflow: auto; 
+    height: 50vh;
+}
+
+.form-control{
+    background-color: #1e202b !important;
+    border: none !important;
+}
+.backbutton{
+    background-color: #009ad8;
+}
+
+.position{
+    top: 30%;
+    left: 5%;
+}
+
+.positionMark{
+    bottom: 50%;
+    right: 30%;
+    font-size: 60px;
+}
+
+.texticon{
+    font-size: small;
+    
+}
+
+.iconcolor{
+    color:#bfc1c8; 
+}
+
+.backHeaderItme{
+    background-color: #2d303d;
+}
+.backContentItem{
+    background-color: #323544;
+}
+
+.backContentItem2{
+    background-color: #1e202b
+
+}
+.backcontentitme{
+    background-color: #323544;
+}
+
+.backcontentitme2{
+    background-color: #262936;
+
+}
+
+.positionMark2{
+    bottom: 50%;
+    right: 43%;
+    font-size: 20px;
+}
+
+.colorbutton2{
+    background-color: #323544 ;
+    color: #009ad8;
+}
+
+.backend{
+    background-color: #262936;
+}
+
+
+
+.colorbutton2:hover{
+    background-color: #009ad8;
+    color: white;
+}
